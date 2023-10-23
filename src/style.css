@@ -1,0 +1,35 @@
+body {
+  background-color: #EFEFEF;
+}
+.example {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+.block {
+  margin: 10px;
+  text-align: center;
+}
+
+.select {
+  width: 500px;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: 'HelveticaNeue';
+  
+}
+.text{
+  font-family: 'HelveticaNeue';
+    font-weight: bold;
+    font-size: 18px;
+    color: #f23c32
+}
+.selected {
+  color: black;
+  font-weight: bold;
+}
